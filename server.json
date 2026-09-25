@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/us-code",
   "title": "Us Code",
   "description": "US Code — the text of federal statutes, by citation.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/us-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-us-code",
