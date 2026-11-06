@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-us-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "US Code — the text of federal statutes, by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "us-code",
     "gatewaySlug": "us-code",
-    "sourceHash": "v1-378e9316b3a5aef357545f76f55908b0174af33d4de7e643f5c63ff1c4dee0c6",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-411177e21fbc33603b04e65bb6275ef5bbd2464998e8449d5a501e9e1d3b5d88",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
